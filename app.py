@@ -82,9 +82,7 @@ if st.button("Generate My Personalized Plan 🚀"):
                 # 2. Use the correct "Thinking" configuration
                 response = model.generate_content(
                     prompt,
-                    generation_config={
-                        "thinking_level": "medium" 
-                    }
+                 
                 )
                 
                 # 3. Display Result
@@ -98,4 +96,5 @@ if st.button("Generate My Personalized Plan 🚀"):
 
 # --- FOOTER ---
 st.markdown("---")
+
 st.caption("Built for students by Omkar-IT")
