@@ -3,6 +3,7 @@
 **Track It** is an AI-powered fitness and nutrition planner designed specifically for students. It leverages Google's **Gemini 3 Flash** model to generate personalized, budget-friendly diet plans and home workout routines based on individual body metrics.
 
 🔗 **[Live Demo](https://fitness-ai-app-omkar-it.streamlit.app/)**
+### 🚀 **Live Demo:** [Click here to use the App](https://fitness-ai-app-omkar-it.streamlit.app/)
 
 ## 🚀 Features
 
