@@ -39,6 +39,8 @@
 
 ## 📂 Project Structure
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fitness-ai-app-omkar-it.streamlit.app/)
+
 ```text
 fitness-ai-app/
 ├── app.py              # Main application logic and UI
